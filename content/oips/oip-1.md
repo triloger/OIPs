@@ -1,6 +1,6 @@
 ---
 oip: 1
-network: Ethereum
+network: BNB Chain
 title: OIP Purpose and Guidelines
 status: Implemented
 author: Albert R.
@@ -10,7 +10,7 @@ type: Governance
 
 ## What is an OIP?
 
-OIP stands for Oikos Improvement Proposal, it has been adapted from the OIP (Ethereum Improvement Proposal). The purpose of this process is to ensure changes to Oikos are transparent and well governed. An OIP is a design document providing information to the Oikos community about a proposed change to the system. The author is responsible for building consensus within the community and documenting dissenting opinions.
+OIP stands for Oikos Improvement Proposal, it has been adapted from the EIP (Ethereum Improvement Proposal). The purpose of this process is to ensure changes to Oikos are transparent and well governed. An OIP is a design document providing information to the Oikos community about a proposed change to the system. The author is responsible for building consensus within the community and documenting dissenting opinions.
 
 ## What is an OCCP?
 
