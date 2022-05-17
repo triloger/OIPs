@@ -162,7 +162,7 @@ The OIP document was derived heavily from the OIP Ethereum Improvement Proposal 
 
 - _"This document (OIP) was derived heavily from [Bitcoin's BIP-0001] written by Amir Taaki which in turn was derived from [Python's PEP-0001]. In many places text was simply copied and modified. Although the PEP-0001 text was written by Barry Warsaw, Jeremy Hylton, and David Goodger, they are not responsible for its use..."_ \*
 
-June 10, 2019: OIP 1 has been drafted and submitted as a PR.
+March 1, 20221: OIP 1 has been drafted and submitted as a PR.
 
 See [the revision history for further details](https://github.com/oikos-cash/), which is also available by clicking on the History button in the top right of the OIP.
 
