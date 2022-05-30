@@ -1,5 +1,5 @@
 ---
-oip: 2
+oip: 3
 network: BNB Chain
 title: Add new crypto Synths
 status: Draft
