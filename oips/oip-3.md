@@ -36,6 +36,11 @@ N/A
 ## Implementation
 
 As proposal is approved, these Synths will be added.
+Here are the relevant price feeds provided by Chainlink oracles: 
+- LINK/USD: [0xca236e327f629f9fc2c30a4e95775ebf0b89fac8](https://bscscan.com/address/0xca236e327f629f9fc2c30a4e95775ebf0b89fac8)
+- AAVE/USD: [0xa8357bf572460fc40f4b0acacbb2a6a61c89f475](https://bscscan.com/address/0xa8357bf572460fc40f4b0acacbb2a6a61c89f475)
+- DPI/USD: [0x7ee7e7847ffc93f8cf67bccc0002aff9c52de524](https://bscscan.com/address/0x7ee7e7847ffc93f8cf67bccc0002aff9c52de524)
+- MATIC/USD: [0x7ca57b0ca6367191c94c8914d7df09a57655905f](https://bscscan.com/address/0x7ca57b0ca6367191c94c8914d7df09a57655905f)
 
 ## Copyright
 
